@@ -205,7 +205,7 @@ button:hover {
         display: grid;
         grid-template-columns: repeat(1, 99%);
         column-gap: 1%;
-        row-gap: 5%;
+        row-gap: 2%;
         list-style: none;
     }
 
